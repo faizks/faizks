@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faizks
-- 👀 I’m interested in Readind
+- 👀 I’m interested in Reading
 - 🌱 I’m currently learning Python/Java/HTML/CSS/JScript
 - 
 - 💞️ I’m looking to collaborate on ...
